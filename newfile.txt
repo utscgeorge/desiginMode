@@ -1,0 +1,6 @@
+#new file
+#Thu Sep 24 21:24:20 CST 2020
+day=21
+year1=1999
+year=2004
+month=4
