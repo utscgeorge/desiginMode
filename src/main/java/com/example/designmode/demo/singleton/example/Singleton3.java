@@ -1,4 +1,4 @@
-package com.example.designmode.demo.singleton;
+package com.example.designmode.demo.singleton.example;
 
 /**
  * @author george.zhang
